@@ -5,6 +5,5 @@ google_analytics:
 theme: jekyll-theme-hacker
     ```yml
     github:
-      zip_url: http://example.com/download.zip
-      another_url: another value
+      Resume_url : http://example.com/download.zip
     ```
