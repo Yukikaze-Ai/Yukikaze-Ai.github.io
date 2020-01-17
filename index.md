@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[My LinkedIn](https://www.linkedin.com/in/hongyundu/).
+[My LinkedIn]().
 
 There should be whitespace between paragraphs.
 
