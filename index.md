@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![Me](./assets/images/Me.png)
+
 
 # About Me
 
@@ -13,6 +13,7 @@ While I'm studying in the University of Texas at Dallas from 2017, I've focused 
 
 ## Header 2
 
+![Me](./assets/images/Me.png)
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
