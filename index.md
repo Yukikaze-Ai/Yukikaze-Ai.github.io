@@ -2,9 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[My LinkedIn]().
 
 There should be whitespace between paragraphs.
 
@@ -100,6 +97,11 @@ end
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+
+[My LinkedIn]().
+
 
 
 ### Definition lists can be used with HTML syntax.
