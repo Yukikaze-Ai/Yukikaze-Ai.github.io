@@ -3,7 +3,5 @@ description: Last Update at Jan. 2020
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
-    ```yml
     github:
       Resume_url : http://example.com/download.zip
-    ```
