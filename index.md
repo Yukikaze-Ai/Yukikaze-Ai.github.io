@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+![Me](./assets/images/Me.png)
 
 # About Me
 
