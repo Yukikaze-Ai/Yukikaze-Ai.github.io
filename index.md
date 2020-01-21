@@ -11,6 +11,4 @@ When I was in the Zhejiang Institute of Communications from 2012 to 2015, I was 
 
 While I'm studying in the University of Texas at Dallas from 2017, I've focused on software development for 3 years, and thus, I have a strong understanding of both data structures and algorithm analyzing/developing.
 
-## Header 2
-
 ![Hongyun](./assets/images/Me.png)
